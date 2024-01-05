@@ -22,4 +22,4 @@ jobs:
         tags: v3, latest
         registry: docker.io
         username: barabonda
-        password: dlalsdn1!
+        password: dckr_pat_ZXpTd_ZxB8RH-_6KWKIe37pbxYA
