@@ -43,7 +43,6 @@ WSGI는 파이썬 웹 응용 프로그램을 위한 것이다. WSGI는 웹서버
 github에
 
 `if __name__ == '__main__':app.run('0.0.0.0', 5000, True)`
-
 를 바꾸면 `python3 app.py` 만 눌러도 웹실행 가능
 
 VSCODE, 리눅스 cmd
@@ -57,7 +56,7 @@ VSCODE, 리눅스 cmd
 
 그러면 5000번 실행됌
 
-##curl 명령어
+## curl 명령어
 
 `udo apt  install curl`
 
